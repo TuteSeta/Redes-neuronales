@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.gif" width="600"/>
+</p>
 # 🧠 Redes Neuronales | Deep Learning
 
 ![Deep Learning Banner](./assets/banner.gif)
