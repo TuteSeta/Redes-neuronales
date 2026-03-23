@@ -1,19 +1,14 @@
-<p align="center">
-  <img src="./assets/banner.gif" width="600"/>
-</p>
 # 🧠 Redes Neuronales | Deep Learning
 
-![Deep Learning Banner](./assets/banner.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz6eMNdooOHzG0/giphy.gif" width="500"/>
+</p>
 
 ## 📌 Descripción
 
-Este repositorio contiene el desarrollo práctico y teórico de la materia **Redes Neuronales**, enfocada en la construcción de modelos de Deep Learning para resolver problemas reales.
+Este repositorio reúne los contenidos teóricos y prácticos desarrollados en la materia **Redes Neuronales**, centrada en el estudio y aplicación de modelos de **Deep Learning**.
 
-El objetivo principal es aprender a:
-
-- Extraer patrones de datos 📊  
-- Automatizar tareas complejas 🤖  
-- Diseñar modelos de aprendizaje profundo  
+El objetivo principal es comprender cómo los modelos pueden aprender representaciones a partir de datos para resolver problemas complejos de forma automatizada.
 
 ---
 
@@ -26,34 +21,25 @@ El objetivo principal es aprender a:
 
 ---
 
-## 🧩 Contenidos
+## 🧩 Contenidos de la materia
 
-### 🔹 Fundamentos
+### 🔹 Fundamentos del aprendizaje automático
 - Regresión lineal
 - Clasificación Softmax
 - Funciones de pérdida
-- Optimización (SGD)
+- Optimización (Gradient Descent / SGD)
 
 ### 🔹 Redes neuronales
 - Arquitecturas básicas
-- Backpropagation
+- Forward y Backpropagation
 - Entrenamiento por batches
+- Evaluación de modelos
 
-### 🔹 Deep Learning avanzado
-- CNNs 🧠
-- Transfer Learning 🔁
-- Modelos generativos 🎨
-- Vision Transformers (ViT) 🚀
-
----
-
-## 🔬 Ejemplo de entrenamiento
-
-### 📉 Pérdida vs Épocas
-![Loss](./assets/loss.png)
-
-### 📈 Accuracy
-![Accuracy](./assets/accuracy.png)
+### 🔹 Deep Learning aplicado
+- Redes convolucionales (CNNs)
+- Transfer Learning
+- Modelos generativos
+- Vision Transformers (ViT)
 
 ---
 
