@@ -1,7 +1,7 @@
 # 🧠 Redes Neuronales | Deep Learning
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz6eMNdooOHzG0/giphy.gif" width="500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc1eDk5MTM1emQ3NGRlbXFoM2tnbHJ6b2F5eDF0d25sb21qMWl0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6o5muKaBkYqP0eTUC/giphy.gif" width="500"/>
 </p>
 
 ## 📌 Descripción
